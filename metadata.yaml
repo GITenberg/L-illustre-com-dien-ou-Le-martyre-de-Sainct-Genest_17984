@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '7714'
     url: http://www.gutenberg.org/2009/agents/7714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17984#L-illustre-com-dien-ou-Le-martyre-de-Sainct-Genest
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2006-03-14'
 gutenberg_type: Text
